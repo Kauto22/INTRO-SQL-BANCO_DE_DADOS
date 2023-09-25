@@ -2,7 +2,7 @@
 ## <p align="left">Trabalho Bimestral de Introdução ao Banco de Dados com SQL por: Kauã Silva Barreto Caldas</p>
 ### <p align="left">1. Selecione todos os dados dos países da tabela_paises;</p>
 **<p align="left">CÓDIGO EM TEXTO</p>**
-<p align="left">select * from tabela_paises;</p>
+`<p align="left">select * from tabela_paises;</p>`
 **<p align="center">CÓDIGO EM IMAGEM</p>**
 
 <div align="center">
