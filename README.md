@@ -4,8 +4,8 @@ Trabalho Bimestral de Introdução ao Banco da Dados com SQL
 by: Kauã Silva Barreto Caldas
 
 1. Selecione todos os dados dos países da tabela_paises;
-
 CÓDIGO EM TEXTO
+
 select * from tabela_paises;
 
 CÓDIGO EM IMAGEM
