@@ -1,4 +1,22 @@
 # INTRO-SQL-BANCO_DE_DADOS
+<p align="left">Trabalho Bimestral de Introdução ao Banco de Dados com SQL por: Kauã Silva Barreto Caldas</p>
+
+###
+
+<p align="left">1. Selecione todos os dados dos países da tabela_paises;</p>
+
+###
+
+<p align="left">CÓDIGO EM TEXTO</p>
+
+###
+
+<p align="left">select * from tabela_paises;</p>
+
+###
+
+<p align="left">CÓDIGO EM IMAGEM</p>
+
 
 Trabalho Bimestral de Introdução ao Banco da Dados com SQL
 by: Kauã Silva Barreto Caldas
@@ -49,30 +67,4 @@ RESULTADO
 
 
 
-
-<p align="left">Trabalho Bimestral de Introdução ao Banco de Dados com SQL por: Kauã Silva Barreto Caldas</p>
-
-###
-
-<p align="left">1. Selecione todos os dados dos países da tabela_paises;</p>
-
-###
-
-<p align="left">CÓDIGO EM TEXTO</p>
-
-###
-
-<p align="left">select * from tabela_paises;</p>
-
-###
-
-<p align="left">CÓDIGO EM IMAGEM</p>
-
-###
-
-<div align="center">
-  <img height="200" src="![WhatsApp Image 2023-09-25 at 10 35 06](https://github.com/Kauto22/INTRO-SQL-BANCO_DE_DADOS/assets/111540350/bbed07b3-31b1-4567-84b4-ca62a7d5b658)"  />
-</div>
-
-###
 
