@@ -3,7 +3,7 @@
 
 ### <p align="left">1. Selecione todos os dados dos países da tabela_paises;</p>
 **<p align="left">CÓDIGO EM TEXTO</p>**
-`select * from tabela_paises`
+`select * from tabela_paises;`
 **<p align="center">CÓDIGO EM IMAGEM</p>**
 
 <div align="center">
@@ -18,6 +18,8 @@
 </div>
 
 ### <p align="left">2. Selecione todas as cidades cujo país seja brazil;</p>
+**<p align="left">CÓDIGO EM TEXTO</p>**
+`select cidade from tabela_paises where pais = 'Brazil';`
 
 <p align="center">CÓDIGO EM IMAGEM</p>
 <div align="center">
@@ -32,6 +34,8 @@
 </div>
 
 ### <p align="left">3. Selecione todas as cidades cuja região(estado) é ceará;</p>
+**<p align="left">CÓDIGO EM TEXTO</p>**
+`select cidade from tabela_paises where regiao = 'Ceará';`
 
 <p align="center">CÓDIGO EM IMAGEM</p>
 <div align="center">
@@ -48,6 +52,10 @@
 
 ### <p align="left">4. Utilize a função count para saber quantas regiões(estados) existem na China, 
 utilize também o group by;</p>
+**<p align="left">CÓDIGO EM TEXTO</p>**
+`select count(*) as quantidade_regioes, regiao from tabela_paises where pais = 'China' 
+group by regiao;`
+
 <p align="center">CÓDIGO EM IMAGEM</p>
 <div align="center">
 
@@ -62,6 +70,10 @@ utilize também o group by;</p>
 </div>
 
 ### <p align="left">5. Quais regiões, diferentes, existem no Canadá?</p>
+**<p align="left">CÓDIGO EM TEXTO</p>**
+`select distinct regiao, count(*) as quantidade_regioes from tabela_paises where pais = 'Canada'
+group by regiao;`
+
 <p align="center">CÓDIGO EM IMAGEM</p>
 <div align="center">
   
@@ -76,6 +88,10 @@ utilize também o group by;</p>
 </div>
 
 ### <p align="left">6. Quantos países diferentes existem na tabela 'tabela_paises';</p>
+**<p align="left">CÓDIGO EM TEXTO</p>**
+`select count (distinct pais) as total_paises
+FROM tabela_paises`
+
 <p align="center">CÓDIGO EM IMAGEM</p>
 <div align="center">
 
@@ -90,6 +106,10 @@ utilize também o group by;</p>
 </div>
 
 ### <p align="left">7. Quantas cidades diferentes existem no brazil;</p>
+**<p align="left">CÓDIGO EM TEXTO</p>**
+`SELECT COUNT(DISTINCT cidade) AS cidade_diferentes FROM tabela_paises where pais = 'Brazil';
+`
+
 <p align="center">CÓDIGO EM IMAGEM</p>
 <div align="center">
 
@@ -104,6 +124,10 @@ utilize também o group by;</p>
 </div>
 
 ### <p align="left">8. Selecione os países e quantas regiões cada país possui;</p>
+**<p align="left">CÓDIGO EM TEXTO</p>**
+`SELECT pais,COUNT(regiao) AS quantidade_regioes
+FROM tabela_paises GROUP BY pais;`
+
 <p align="center">CÓDIGO EM IMAGEM</p>
 <div align="center">
 
@@ -118,6 +142,10 @@ utilize também o group by;</p>
 </div>
 
 ### <p align="left">9. Quantas pessoas com nome começando em 'João' existem no banco?</p>
+**<p align="left">CÓDIGO EM TEXTO</p>**
+`SELECT COUNT(*) as quantidade_pessoas FROM tabela_paises 
+WHERE nome like 'João%';`
+
 <p align="center">CÓDIGO EM IMAGEM</p>
 <div align="center">
 
@@ -132,6 +160,10 @@ utilize também o group by;</p>
 </div>
 
 ### <p align="left">10. Quantas pessoas têm o nome John?</p>
+**<p align="left">CÓDIGO EM TEXTO</p>**
+`SELECT COUNT(*) AS quantidade_john FROM tabela_paises
+WHERE nome like 'John%';`
+
 <p align="center">CÓDIGO EM IMAGEM</p>
 <div align="center">
 
@@ -146,6 +178,9 @@ utilize também o group by;</p>
 </div>
 
 ### <p align="left">11. Ordene os nomes dos países sem repetição em ordem alfabética;</p>
+**<p align="left">CÓDIGO EM TEXTO</p>**
+`select distinct pais from tabela_paises order by pais;`
+
 <p align="center">CÓDIGO EM IMAGEM</p>
 <div align="center">
 
