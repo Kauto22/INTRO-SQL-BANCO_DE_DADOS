@@ -17,7 +17,7 @@
   ![WhatsApp Image 2023-09-25 at 10 35 06 (1)](https://github.com/Kauto22/INTRO-SQL-BANCO_DE_DADOS/assets/111540350/2e141531-3983-43db-aef3-fc75c806b8bb)
 </div>
 
-### <p align="left">2. Selecione todos os dados dos países da tabela_paises;</p>
+### <p align="left">2. Selecione todas as cidades cujo país seja brazil;</p>
 
 <p align="center">CÓDIGO EM IMAGEM</p>
 <div align="center">
@@ -31,7 +31,7 @@
   ![WhatsApp Image 2023-09-25 at 10 35 20 (1)](https://github.com/Kauto22/INTRO-SQL-BANCO_DE_DADOS/assets/111540350/1cb10d65-7452-4dc8-b933-e11b0866a271)
 </div>
 
-### <p align="left">3. Selecione todos os dados dos países da tabela_paises;</p>
+### <p align="left">3. Selecione todas as cidades cuja região(estado) é ceará;</p>
 
 <p align="center">CÓDIGO EM IMAGEM</p>
 <div align="center">
@@ -46,7 +46,8 @@
   ![WhatsApp Image 2023-09-25 at 10 35 29 (1)](https://github.com/Kauto22/INTRO-SQL-BANCO_DE_DADOS/assets/111540350/cd81d47d-5ee5-43a9-8222-eab8de1c768f)
 </div>
 
-### <p align="left">4. Selecione todos os dados dos países da tabela_paises;</p>
+### <p align="left">4. Utilize a função count para saber quantas regiões(estados) existem na China, 
+utilize também o group by;</p>
 <p align="center">CÓDIGO EM IMAGEM</p>
 <div align="center">
 
@@ -60,7 +61,7 @@
   ![WhatsApp Image 2023-09-25 at 10 35 38 (1)](https://github.com/Kauto22/INTRO-SQL-BANCO_DE_DADOS/assets/111540350/09471f3f-b1c6-4fd8-b6cd-42212011f30d)
 </div>
 
-### <p align="left">5. Selecione todos os dados dos países da tabela_paises;</p>
+### <p align="left">5. Quais regiões, diferentes, existem no Canadá?</p>
 <p align="center">CÓDIGO EM IMAGEM</p>
 <div align="center">
   
@@ -74,7 +75,7 @@
   ![WhatsApp Image 2023-09-25 at 10 35 48 (1)](https://github.com/Kauto22/INTRO-SQL-BANCO_DE_DADOS/assets/111540350/828418db-9ad1-46f3-b4f0-4e7282912903)
 </div>
 
-### <p align="left">6. Selecione todos os dados dos países da tabela_paises;</p>
+### <p align="left">6. Quantos países diferentes existem na tabela 'tabela_paises';</p>
 <p align="center">CÓDIGO EM IMAGEM</p>
 <div align="center">
 
@@ -88,7 +89,7 @@
   ![WhatsApp Image 2023-09-25 at 10 35 57 (2)](https://github.com/Kauto22/INTRO-SQL-BANCO_DE_DADOS/assets/111540350/11380b51-cfeb-4927-9b58-d6aab64d1be4)
 </div>
 
-### <p align="left">7. Selecione todos os dados dos países da tabela_paises;</p>
+### <p align="left">7. Quantas cidades diferentes existem no brazil;</p>
 <p align="center">CÓDIGO EM IMAGEM</p>
 <div align="center">
 
@@ -102,7 +103,7 @@
   ![WhatsApp Image 2023-09-25 at 10 36 08](https://github.com/Kauto22/INTRO-SQL-BANCO_DE_DADOS/assets/111540350/ea888a51-285f-4ccd-afdb-5389a2b1dda0)
 </div>
 
-### <p align="left">8. Selecione todos os dados dos países da tabela_paises;</p>
+### <p align="left">8. Selecione os países e quantas regiões cada país possui;</p>
 <p align="center">CÓDIGO EM IMAGEM</p>
 <div align="center">
 
@@ -116,7 +117,7 @@
   ![WhatsApp Image 2023-09-25 at 10 36 19](https://github.com/Kauto22/INTRO-SQL-BANCO_DE_DADOS/assets/111540350/dc2a7706-4e73-49a5-b2da-3edbfbbfd08e)
 </div>
 
-### <p align="left">9. Selecione todos os dados dos países da tabela_paises;</p>
+### <p align="left">9. Quantas pessoas com nome começando em 'João' existem no banco?</p>
 <p align="center">CÓDIGO EM IMAGEM</p>
 <div align="center">
 
@@ -130,7 +131,7 @@
   ![WhatsApp Image 2023-09-25 at 10 36 28](https://github.com/Kauto22/INTRO-SQL-BANCO_DE_DADOS/assets/111540350/4297be51-1ce4-45d8-9506-931adfe2c457)
 </div>
 
-### <p align="left">10. Selecione todos os dados dos países da tabela_paises;</p>
+### <p align="left">10. Quantas pessoas têm o nome John?</p>
 <p align="center">CÓDIGO EM IMAGEM</p>
 <div align="center">
 
@@ -144,7 +145,7 @@
   ![WhatsApp Image 2023-09-25 at 10 36 34 (1)](https://github.com/Kauto22/INTRO-SQL-BANCO_DE_DADOS/assets/111540350/9b4d70cc-c7f1-4b0c-94b2-035bc51d4644)
 </div>
 
-### <p align="left">11. Selecione todos os dados dos países da tabela_paises;</p>
+### <p align="left">11. Ordene os nomes dos países sem repetição em ordem alfabética;</p>
 <p align="center">CÓDIGO EM IMAGEM</p>
 <div align="center">
 
