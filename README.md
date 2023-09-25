@@ -5,6 +5,10 @@
 <p align="left">select * from tabela_paises;</p>
 <p align="left">CÓDIGO EM IMAGEM</p>
 
+<div align="center">
+  <img height="200" src="![WhatsApp Image 2023-09-25 at 10 35 06](https://github.com/Kauto22/INTRO-SQL-BANCO_DE_DADOS/assets/111540350/bbed07b3-31b1-4567-84b4-ca62a7d5b658)"  />
+</div>
+
 ![WhatsApp Image 2023-09-25 at 10 35 06](https://github.com/Kauto22/INTRO-SQL-BANCO_DE_DADOS/assets/111540350/bbed07b3-31b1-4567-84b4-ca62a7d5b658)
 
 <p align="left">RESULTADO</p>
@@ -45,5 +49,8 @@
 ![WhatsApp Image 2023-09-25 at 10 36 41](https://github.com/Kauto22/INTRO-SQL-BANCO_DE_DADOS/assets/111540350/689c3bd1-9501-44e0-ac3f-169a4fd21ed0)
 
 
+<div align="center">
+  <img height="200" src="file:///C:/Users/Kau%C3%A3/Downloads/WhatsApp%20Image%202023-09-25%20at%2010.35.06.jpeg"  />
+</div>
 
-
+###
